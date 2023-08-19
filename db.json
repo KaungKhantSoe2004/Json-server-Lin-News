@@ -1,0 +1,110 @@
+{
+  "user": [
+    {
+      "name": "Kaung Khant Soe",
+      "email": "kaungkhants892@gmail.com",
+      "password": "kks",
+      "id": 1
+    },
+    {
+      "name": "Su Su Win",
+      "email": "susu@gmail.com",
+      "password": "susu",
+      "id": 2
+    },
+    {
+      "name": "haha",
+      "email": "haha@gmail.com",
+      "password": "hshs",
+      "id": 3
+    },
+    {
+      "name": "Htet Htet Khaing",
+      "email": "htet@gmail.com",
+      "password": "mylove",
+      "id": 4
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 1,
+      "title": "OnePlus' new screen knows where you're touching it, even when it's wet - The Verge",
+      "time": "2023-08-14",
+      "img": "https://cdn.vox-cdn.com/thumbor/mZaozpkktHgUR6fEofJhomJmNjs=/0x0:2200x1235/1200x628/filters:focal(1100x618:1101x619)/cdn.vox-cdn.com/uploads/chorus_asset/file/24850143/OnePlus_Ace_2_Pro_screenshot.png",
+      "url": "https://www.theverge.com/2023/8/14/23831651/oneplus-ace-2-pro-touchscreen-wet-hands-oppo",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Biden urges Detroit automakers, union to forge deal as deadline looms - The Washington Post",
+      "time": "2023-08-14",
+      "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTEX3AXRJBEKHIVWW5GJXSNLYY.jpg&w=1440",
+      "url": "https://www.washingtonpost.com/business/2023/08/14/biden-uaw-negotiations/",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "6 ex-officers, some of whom called themselves ‘The Goon Squad,’ plead guilty to state charges in torture of 2 Black men - CNN",
+      "time": "2023-08-14",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230814111608-mississippi-goon-squad-cops-guilty-split.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/2023/08/14/us/mississippi-goon-squad-cops-guilty-plea/index.html",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Tesla cuts prices in China for select Model Y versions - Reuters",
+      "time": "2023-08-14",
+      "img": "https://www.reuters.com/resizer/n1Q_hhMgLVbiyV1-zkRB7zMLKcg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZURTON6MUROLHCRT4QVPAIWPT4.jpg",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Judge rules in favor of Montana youths in landmark climate decision - The Washington Post",
+      "time": "2023-08-14",
+      "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YSKSKHIBJQOBTE7DIU6KBNCD7Q.jpg&w=1440",
+      "url": "https://www.washingtonpost.com/climate-environment/2023/08/14/youths-win-montana-climate-trial/",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Biden urges Detroit automakers, union to forge deal as deadline looms - The Washington Post",
+      "time": "2023-08-14",
+      "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTEX3AXRJBEKHIVWW5GJXSNLYY.jpg&w=1440",
+      "url": "https://www.washingtonpost.com/business/2023/08/14/biden-uaw-negotiations/",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "title": "Asian stocks slip as China data continues to disappoint - Reuters",
+      "time": "2023-08-16",
+      "img": "https://www.reuters.com/resizer/ip8qer8P1SG6nQSdSAe_7e_D1iE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JAQ6SVUAKRKMXCEYFJ5WFEQQXQ.jpg",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-16/",
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "title": "Murdaugh associate gets 4 years in prison - WCNC",
+      "time": "2023-08-16",
+      "img": "https://i.ytimg.com/vi/M3aCsL16sEw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M3aCsL16sEw",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "title": "Aldi is buying 400 Winn-Dixie and Harveys supermarkets - CNN",
+      "time": "2023-08-16",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230816123747-aldi-store-file-2017.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/2023/08/16/investing/aldi-buys-winn-dixie/index.html",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Ötzi the Iceman’s true appearance revealed by new DNA analysis - CNN",
+      "time": "2023-08-16",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230816124725-02a-otzi-ancient-dna-scn.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/2023/08/16/europe/otzi-the-iceman-physical-traits-scn/index.html",
+      "id": 10
+    }
+  ]
+}
